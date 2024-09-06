@@ -21,7 +21,7 @@ summary: "This was the 6th assignment on my ICS 111 Intro to Computer Science cl
 
 Change Current Password Simulator (Java) is a User Interface simulation of which the user wants to, as the name implies, change their password. The user should already know their password, can be changed when you're not running the code (should be on line 14), and it will be tested in the program. Once the user successfully entered their current password, they will be met with a prompt on the requirements for their new password and also requires the user to re-type their password correctly. 
 
-This project was all done by myself which took some time for the functions and conditionals to work properly as this was the very first coding language that I was learning at the time. This assignment taught me about functions and using functions to return a value or values, the use of the Scanner library, and using data type final.
+This assignment was all done by myself which took some time for the functions and conditionals to work properly as this was the very first coding language that I was learning at the time. This assignment taught me about functions and using functions to return a value or values, the use of the Scanner library, and using data type final.
 
 Here is the function I made for confirming the password inputted by the user without all the culster of comments:
 
