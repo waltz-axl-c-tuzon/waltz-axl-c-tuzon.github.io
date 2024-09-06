@@ -50,8 +50,10 @@ public static boolean passwordChecker(String NP, String RP) {   //NP is new pass
         		break; 
         	}
         }
-     return passwordConfirmation;   
+     return passwordConfirmation;
+
     }
 
 }
 ```
+[changePassword.java](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/changePassword.java)
