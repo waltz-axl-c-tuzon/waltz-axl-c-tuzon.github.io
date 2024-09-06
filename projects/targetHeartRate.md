@@ -19,9 +19,9 @@ summary: "This was the 5th assignment on my ICS 212 Program Structure class wher
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program.
+Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program. Users will need to enter a year, an age, and then the code will compute for the target heart-rate
 
-This assignment was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings.
+This assignment was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings. 
 
 Note: This code needs its custom-made .h file in order to work
 
