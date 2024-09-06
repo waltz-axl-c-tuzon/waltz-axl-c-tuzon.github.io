@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/1706511304322.jpg
 title: "Polymorphism (C++)"
 date: 2023
 published: true
