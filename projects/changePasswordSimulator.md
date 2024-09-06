@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Change Password Simulator (Java)"
-date: 2015
+date: 2022
 published: true
 labels:
   - Java
