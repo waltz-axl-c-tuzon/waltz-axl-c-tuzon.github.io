@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/5966305_s.jpg
 title: "Target Heart-Rate For Exercising Simulator (C)"
 date: 2023
 published: true
