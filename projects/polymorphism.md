@@ -14,12 +14,6 @@ labels:
 summary: "This was the 24th assignment on my ICS 212 Program Structure class where C and C++ are the coding languages being used, this one uses C++, and the assignment is about polymorphism."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 Polymorphism (C++) is a code that that introduces... polymorphism, which is dynamic binding.  
 
 I am using this multiline comment from my code to have you get a better understanding of what this assignment is about.
