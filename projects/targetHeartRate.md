@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Target Heart-Rate For Exercising Simulator (C)"
-date: 2022
+date: 2023
 published: true
 labels:
   - C
@@ -21,7 +21,7 @@ summary: "This was the 5th assignment on my ICS 212 Program Structure class wher
 
 Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program.
 
-This project was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings.
+This assignment was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings.
 
 Note: This code needs its custom-made .h file in order to work
 
