@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1706511304322.jpg
+image: img/polymorphismOuterPic.jpg
 title: "Polymorphism (C++)"
 date: 2023
 published: true
@@ -13,6 +13,8 @@ labels:
   - Pointers
 summary: "This was the 24th assignment on my ICS 212 Program Structure class where C and C++ are the coding languages being used, this one uses C++, and the assignment is about polymorphism."
 ---
+
+<img src="/img/1706511304322.jpg">
 
 Polymorphism (C++) is a code that that introduces... polymorphism, which is dynamic binding.  
 
