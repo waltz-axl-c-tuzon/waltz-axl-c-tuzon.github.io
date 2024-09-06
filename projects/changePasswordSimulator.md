@@ -12,7 +12,6 @@ labels:
   - Java's Scanner Library
 summary: "This was the 6th assignment on my ICS 111 Intro to Computer Science class where Java is the coding language being used, and the assignment is a simulation of when a user wants to change their password."
 ---
-<img width="300">
 
 Change Current Password Simulator (Java) is a User Interface simulation of which the user wants to, as the name implies, change their password. The user should already know their password, can be changed when you're not running the code (should be on line 14), and it will be tested in the program. Once the user successfully entered their current password, they will be met with a prompt on the requirements for their new password and also requires the user to re-type their password correctly. 
 
