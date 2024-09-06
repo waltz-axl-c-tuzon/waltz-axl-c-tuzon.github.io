@@ -36,4 +36,4 @@ Here is a snippet from the whole code that calculates the target heart-rate afte
   lowHeartRateTarget = (int)(maxHeartRate * LOW_HR_TARGET);
   upperHeartRateTarget = (int)(maxHeartRate * UPPER_HR_TARGET);
 ```
-[polymorphism.cpp](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/polymorphism.cpp)
+[targetHeartRate.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/targetHeartRate.c)
