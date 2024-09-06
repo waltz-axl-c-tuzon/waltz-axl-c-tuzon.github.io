@@ -30,7 +30,6 @@ Here is a snippet from the whole code that calculates the target heart-rate afte
   lowHeartRateTarget = (int)(maxHeartRate * LOW_HR_TARGET);
   upperHeartRateTarget = (int)(maxHeartRate * UPPER_HR_TARGET);
 ```
-[targetHeartRate.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/targetHeartRate.c)
-Needed files:
-[getdouble.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/getdouble.c)
+Needed files: [targetHeartRate.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/targetHeartRate.c),
+[getdouble.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/getdouble.c),
 [getdouble.h](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/getdouble.h)
