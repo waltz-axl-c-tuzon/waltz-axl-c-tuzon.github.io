@@ -1,0 +1,38 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "Target Heart-Rate For Exercising Simulator (C)"
+date: 2022
+published: true
+labels:
+  - C
+  - Target Heart-Rate For Exercising
+  - Simulator
+  - Heart-Rate Simulator
+summary: "This was the 5th assignment on my ICS 212 Program Structure class where C and C++ are the coding languages being used, this one uses C, and the assignment is a simulation of a user's age and their calculated target heart-rate for exercising."
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
+Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program.
+
+This project was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings.
+
+Note: This code needs its custom-made .h file in order to work
+
+Here is a snippet from the whole code that calculates the target heart-rate after being given input values:
+
+```c
+ birthYear = (int) getdouble();
+  printf("Please enter the current year: ");
+  currentYear = (int) getdouble();
+  age = currentYear - birthYear;
+  maxHeartRate = MAX_HEART_RATE - age;
+  lowHeartRateTarget = (int)(maxHeartRate * LOW_HR_TARGET);
+  upperHeartRateTarget = (int)(maxHeartRate * UPPER_HR_TARGET);
+```
