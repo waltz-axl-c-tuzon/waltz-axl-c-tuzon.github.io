@@ -13,12 +13,6 @@ labels:
 summary: "This was the 5th assignment on my ICS 212 Program Structure class where C and C++ are the coding languages being used, this one uses C, and the assignment is a simulation of a user's age and their calculated target heart-rate for exercising."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program. Users will need to enter a year, an age, and then the code will compute for the target heart-rate
 
 This assignment was all done by myself. This project taught me about user input, symbolic constants, instance variabes, and formatted strings. 
@@ -37,3 +31,6 @@ Here is a snippet from the whole code that calculates the target heart-rate afte
   upperHeartRateTarget = (int)(maxHeartRate * UPPER_HR_TARGET);
 ```
 [targetHeartRate.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/targetHeartRate.c)
+Needed files:
+[getdouble.c](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/getdouble.c)
+[getdouble.h](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/getdouble.h)
