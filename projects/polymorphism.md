@@ -46,6 +46,5 @@ Here is the class hierarchy diagram of the code's polyomrphism:
  *        Sphere   Cylinder
  */
 ```
-[polymorphism.cpp](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/polymorphism.cpp)
-You will also need this:
+Needed files: [polymorphism.cpp](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/polymorphism.cpp),
 [ShapePolymorphism.cpp](https://github.com/waltz-axl-c-tuzon/waltz-axl-c-tuzon.github.io/blob/main/Codes/ShapePolymorphism.cpp)
