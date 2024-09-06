@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.png">
 
 Ever since the entire class was being self taught with HTML, CSS, and JavaScript while maintaining the pace of our Software Engineering course, ICS 314, I thought that was all that we needed to learn to get through this class. Having to do a lot of coding homework was what I was expecting in this class because we were told to learn HTML, CSS, and JavaScript before the semester even started. We were told to learn these coding languages and more for this course and that we are required to be proficient in them especially when we are doing WODs, short for Workout Of the Day. TypeScript was the language that we were set to learn and use, right after learning JavaScript.
 	JavaScript was not that bad because I learned Java as my first coding language, and although they are both completely different languages, I did manage to learn the syntax and rules of JavaScript, what makes pieces of the code work and what does not. Although it took me a while to get used to it and having to relearn things that I should not have forgotten from my past coding classes like Java, Python, C, and C++, I was overwhelmed with how I would perform in TypeScript as it is said to be a superset of JavaScript, and so I was guessing that I needed to be having  more than average proficiency at JavaScript. 
