@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/5966305_s.jpg
+image: img/heartRateOUterPic.jpg
 title: "Target Heart-Rate For Exercising Simulator (C)"
 date: 2023
 published: true
@@ -12,6 +12,8 @@ labels:
   - Heart-Rate Simulator
 summary: "This was the 5th assignment on my ICS 212 Program Structure class where C and C++ are the coding languages being used, this one uses C, and the assignment is a simulation of a user's age and their calculated target heart-rate for exercising."
 ---
+
+<img src="/img/5966305_s.jpg">
 
 Target Heart-Rate For Exercising Simulator (C) is a code that will output a calculated target heart-rate for people when they are exercising. The code will ask for input, calculates it, and outputs the result to the user before ending the program. Users will need to enter a year, an age, and then the code will compute for the target heart-rate
 
