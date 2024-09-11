@@ -32,7 +32,7 @@ I am using this multiline comment from my code to have you get a better understa
 
 This assignment was all done by myself. This project taught me about polymorphism, inheritance, and ponters. It took me a while to get a hold of C++ pointers, but I managed to understand it through YouTube tutorials and reading and watching the Professor's lecture videos.
 
-Here is the class hierarchy diagram of the code's polyomrphism:
+Here is the class hierarchy diagram of the code's polymorphism:
 
 ```c
 /**
