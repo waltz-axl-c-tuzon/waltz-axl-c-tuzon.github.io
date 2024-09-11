@@ -9,7 +9,7 @@
     "summary": "I am a student pursuing a B.S. degree in Computer Science - Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
-      { "network": "github", "username": "waltz-axl-c-tuzon", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "waltz-axl-c-tuzon", "url": "https://github.com/waltz-axl-c-tuzon" },
       { "network": "linkedin", "username": "waltzaxltuzon", "url": "http://linkedin.com/in/changeme" }
     ]
   },
