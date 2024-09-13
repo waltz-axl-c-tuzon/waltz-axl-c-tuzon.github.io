@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/guy-tapping-head.jpg">
 
 <h2>Introduction</h2>
 	<p>In the world of coding, or hacking whichever you prefer, there is a standard for which one asks a question, or multiple questions, the “smart way.” It is best to assume that everybody is busy, and that answering your questions would mean that they sacrificed a portion of their time to help you rather than using it for themselves. There are also those that have the answers but rather not give it to you, and they have a good reason for it. Asking a question that could have been easily looked up online, or a question so obvious would leave your question gaining dust, and asking a question like that would be seen as incompetent and rude to them. Might I remind you that they are busy people and would rather spend their time answering a question that shows competence and quality over something basic. In a sense, you will only get the help you need once you have tried all possible solutions and provided a thorough walkthrough of what you’ve done so far such as reading and trying out the solutions from archived forums, skimmed or read a manual or manuals, reviewing your work incase you have messed up the syntax, and the like so that other hackers know that you have done your part in finding the solution rather than using their time only for you to not take anything from their help after being given.</p>
