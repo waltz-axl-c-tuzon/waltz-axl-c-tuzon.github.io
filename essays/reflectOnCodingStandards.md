@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "console.log(isQuestionSmart ? “Smart” : “Not Smart”);"
+title: "A Little Change is Still Change"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
 published: true
 labels:
   - Computer Science
-  - Smart Questions
+  - Coding Standards
   - Reflection
 ---
 
