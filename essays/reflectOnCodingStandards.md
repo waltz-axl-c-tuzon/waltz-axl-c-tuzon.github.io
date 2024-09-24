@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/guy-tapping-head.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/codingStandardPic.jpg">
 
 <h2>Introduction</h2>
 <p>Having the requirement to code a certain way just for the sake of implementing “software engineering techniques” and “improving the quality” of the code, will divide a population of coders. Of course there are those who will say that the standard for coding should be followed because there are rules that need to be checked, then there are also those who want to continue typing their code by the way that they learned coding. I will be siding with the populous that wants to enforce coding standards and how it will benefit you in the future, then I will transition to the opposite populous and why they should try changing, even if it is little by little.</p>
