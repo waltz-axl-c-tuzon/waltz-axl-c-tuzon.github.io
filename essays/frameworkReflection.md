@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/codingStandardPic.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/social-blade-img.png">
 
 <h2>Introduction</h2>
 <p>In order to garner visitors to our websites, we need to make one that is for sure appealing. A clever title and a cleverly written essay won’t do justice to your hard work. Think of it as a piece of art - you’re showing them what you got, your personality attached to your work, and you don’t want to show them an unfinished product now do you? I’m no art major by any means, nor am I good at anything artsy, but being simple is all it takes to garner a lot of people.</p>
