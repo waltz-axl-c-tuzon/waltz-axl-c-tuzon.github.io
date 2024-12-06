@@ -1,19 +1,28 @@
 ---
 layout: essay
 type: essay
-title: "Exploring New Branches - Software Engineering"
+title: "Don’t Be A Plain Piece of Sheet"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-06
+date: 2024-09-12
 published: true
 labels:
   - Computer Science
-  - Software Engineering
+  - Design Pattern
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/social-blade-img.png">
 
-
-<p>  Before I begin with how my interests in Software Engineering emerged, I have to first start off with where it all began. Ever since I was introduced to video games such as Halo, Tekken 6, GTA: San Andreas, SSX Tricky, Metal Slug, and others more from the original XBox to the PS3, I grew an interest in video game development because I could not stop playing for hours then on. Fast forward to when I started college, I planned out all of my courses to best fit in a category of what I would need to help me produce my own game or games like ICS 485 which is a Video Game Design course, ICS 486, a Virtual & Augmented Reality Prog course, and the like that would get me to reach my goals. Since they did not have a degree pathway for that at that time, I signed up for the Creative Computational Media certificate, CCM for short, and took the Video Game Designer/Developer/Animator pathway. </p>
-<p>  Over the course of my sophomore year and during Fall 2023 semester, we had a meeting with our department counselors as well as with other students to reflect on our journey through college and I remembered them saying that a new pathway was underway of being added, which was the Creative Computational Track, but at that time I already began to grow interests in cybersecurity and digital forensics due to the field becoming more demanding as technology evolves. I met up with my counselor so that I could fill up forms to be admitted to either of the department’s track programs, and I made up my mind to choose the B.S. Security Science Track and continue to also pursue the CCM certificate. I chose the Security Science pathway because, as cliche as it sounds, I want to protect and prevent everyone from cyberthreats and cybercrimes.</p>
-<p>  Lastly, as I am taking the ICS 314 Software Engineering course in my 3rd year of college because I also grew an interest within this field. I grew an interest in this course because it involves a lot of coding, taking on responsibility, learning to work under pressure, having the ability to write up reports/essays and type in codes for a solution to problems given, as well as building up my professional persona. Software engineering to me is a fundamental skill to learn as I continue to tread for my Computer Science journey. As I am in this journey chapter of garnering more knowledge of Software Engineering, I hope to be more proficient in coding, able to learn more codes, and learn many more fundamental skills as time goes by.</p>
+<h2>Introduction</h2>
+<p>Whether you are starting a new project or finishing up the one that you are currently working on, a design to your page or pages can definitely boost your website via customer or user activity. You can design as much as you want for each of your separate pages. Better yet, you can reuse your design to certain blocks of codes without having to come up with more unique designs for your website, which might be time consuming if this project is scheduled to be submitted at a set date and time.</p>
+<h2>Don’t Dawdle on One Thing and Make More of it</h2>
+<p>Assuming you’ve already typed your nearly finished product (everything but the UI frameworks), why not start with background colors? From a website that I’ve read and have now forgotten the name of, there are a lot of possibilities to choose to color your website. Put some splash of life to your website rather than just the default color - white. Pick a set of colors that work together and apply it to your website and it should look a lot better than it was before. Maybe even pick a background image and be creative.</p>
+<h2>Divide</h2>
+<p>Although working hard on a project for its design is not bad as you either want to show users your creativity, how much you are dedicated to your job, and such but working on design for some time alone can affect your progression with your project as you  have spent a majority of that time working on the design when you could have used that time to fix bugs and resolving some coding issues. Making too much of a design can be too much for a user too, it might be too colorful or too many things on one page, etc. Look at other websites as a means of exposure of what designs they use, most if not all of them do not overdo their design, in fact theirs is very much just a couple few designs.
+</p>
+<h2>Work Smart, Not Hard</h2>
+<p>Being simple is not as bad as some people may think. If you could see other websites you see that some of their designs are the same as the others. So, just a couple of designs and repeatedly using them in your page or pages is sufficient enough to garner customer or user activity on your website as it is not too much or too little designs. To make your life a lot easier, make a unique CSS class name that has the design and style that you like for your code so that these blocks of codes can have the same design by just having that unique CSS class name rather than implementing the same code into different blocks over and over again, which can be very repetitive and messy.
+</p>
+<h2>Final Words…</h2>
+<p>I too make CSS class names for a certain design and style for my code as I really like some parts of the code to either have a similar and different look to another, wherever they are in the website project I am working on. My last few words is that, you should utilize using CSS, or any language that is used to style your website that you are more comfortable in using, as a way to style and design your website is very important as it prevents the use of repetitive styling codes on your files.
+</p>
