@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/social-blade-img.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/designPattern.png">
 
 <h2>Introduction</h2>
 <p>Whether you are starting a new project or finishing up the one that you are currently working on, a design to your page or pages can definitely boost your website via customer or user activity. You can design as much as you want for each of your separate pages. Better yet, you can reuse your design to certain blocks of codes without having to come up with more unique designs for your website, which might be time consuming if this project is scheduled to be submitted at a set date and time.</p>
