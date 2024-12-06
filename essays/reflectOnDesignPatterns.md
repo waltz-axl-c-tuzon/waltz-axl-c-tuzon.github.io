@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Be the Artist"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-12
+date: 2024-12-05
 published: true
 labels:
   - Computer Science
