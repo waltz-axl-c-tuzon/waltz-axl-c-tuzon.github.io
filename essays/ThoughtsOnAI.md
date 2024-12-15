@@ -17,50 +17,75 @@ labels:
 <p>Artificial Intelligence, or AI for short, has had a huge role and impact since its release and its updates being that it takes in input and produces an output or outputs. Although it has its limits - words prompts, unable to access login protected docs/pdfs, bound to make mistakes, etc - give it a couple of updates in the coming months or years and it will become an absolute unit of an arsenal for a student. I’ve been using ChatGPT for quite some time now and it helped me with my Linear Algebra homeworks, Software Engineering homeworks and WODs, and many more courses with comprehensive explanations that help me better understand the topic and the problem itself.</p>
 
 <h1>II. Personal Experience with AI:</h1>
-<li>
+<ol>
   <p>
 Experience WODs e.g. E18 - Personally, I wouldn’t want to use AI for experience WODs because it was just unnecessary and that actually trying to tackle the experience WODs would help me gain coding knowledge. Although, there were some instances where I used AI to help solve my problems. I didn’t use it to help me complete the entirety of the WODs, but I used it to help me fix some coding issues that either resulted in bugs or bad syntax of the codes.
   </p>
+  </ol>
+  <ol>
   <p>
 In-class Practice WODs - I did not get help from AI in all of the in-class practice WODs because they were quite similar in terms of difficulty than that of the experience WODs as the experience WODs already have written and video lessons on each of their specific sections. I was tempted to use it but what would be the reason for calling it a practice if you’re using AI to help you rather than for you to think critically in solving the problem?
   </p>
+    </ol>
+    <ol>
   <p>
 In-class WODs - I was certain that I would be using any form of help from AI on actual WODs. Unfortunately, I did for just one instance. I believe I used AI for just a coding section on WOD: UI Design (Basics) but it was just so that it looked similar to the final product that was shown to us what it would look like after we followed the steps in finishing it.
   </p>
+      </ol>
+      <ol>
   <p>
 Essays - I did not use AI to help me write out my essays because all I do is just write what is noteworthy to be put in an essay and a simple tutorial would do just fine.
   </p>
+    <ol>
   <p>
 Final project - As much as I do not want to use AI for the final project, I needed to do it because of the time constraint and minimal knowledge of some code classes. An instance of me using AI for the final project is using it to create an order form that allows people to edit their orders as well as computing for their payment price.
   </p>
+      </ol>
+      <ol>
   <p>
 Learning a concept / tutorial - I definitely use AI for this reason because sometimes I need outside resources that can teach me some concepts and just some summary of what I was being taught. Although there are videos out there that do the same thing, we have to account for the time that we are limited to and that the summary portion of the output given is sufficient enough for what I want it to give me.
   </p>
+        </ol>
+        <ol>
   <p>
 Answering a question in class or in Discord - I have never used AI to answer any class or Discord questions. I usually answer questions that I know the answers to or just Google their questions and relay back the answers that I found.
   </p>
+          </ol>
+        <ol>
   <p>
 Asking or answering a smart-question - I have never used AI to answer a question. However, I do use AI to ask questions that I believe no one can answer. Some of the questions that I ask are as complex as advanced coding for the project and examples and step by step solutions to another subject’s homework.
   </p>
+          </ol>
+        <ol>
   <p>
 Coding example e.g. “give an example of using Underscore .pluck” - Yes, I do use AI to give me code snippets as a form of knowing what that code snippet does as it gives me an idea to approach that kind of question when the time comes. 
   </p>
+          </ol>
+        <ol>
   <p>
 Explaining code - I don’t really use AI to explain code as I would have already known what the code does unless it's from somebody else and there were no comments.
   </p>
+          </ol>
+        <ol>
   <p>
 Writing code - I use AI for the purpose of aiding me in writing code that I never learned. An example of using AI to write me a code is the order form page of the final project because I wanted it to work how I wanted it to but I don’t know how.
   </p>
+          </ol>
+        <ol>
   <p>
 Documenting code - I don’t usually write documents in codes, but when I do I would use AI as I can copy and paste the code and tell it to give me a concise documentation of the code.
   </p>
+          </ol>
+        <ol>
   <p>
 Quality assurance e.g. “What’s wrong with this code <code "here">” or “Fix the ESLint errors in <code "here">” - Yes, I use AI for this purpose because sometimes I don’t know what's wrong with my code and that I needed its output on what could be the problem and what are the solutions in fixing it. I only use it when I don’t have any way of solving my problem after trying every alternative there are.
   </p>
+  </ol>
+  <ol>
   <p>
 Other uses in ICS 314 not listed - I think I used and not used AI in the lists above and not any other else.
   </p>
-</li>
+</ol>
 
 <h1>III. Impact on Learning and Understanding:</h1>
 <p>With the use of AI, I know that it would make me dependent on it but I stray away from it as much as I can and learn things legitimately. It has definitely influenced me in a way that I can rely on it when I really need its help for things that I can’t solve. Although it has its limitations of being wrong and unable to answer certain questions and problems correctly some times, it did help me enhance my understanding of software engineering.
