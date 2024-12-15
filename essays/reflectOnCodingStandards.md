@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Little Change is Still Change"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-12
+date: 2024-09-24
 published: true
 labels:
   - Computer Science
