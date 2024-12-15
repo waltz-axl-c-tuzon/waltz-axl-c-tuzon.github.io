@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Don’t Be A Plain Piece of Sheet"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-12
+date: 2024-10-10
 published: true
 labels:
   - Computer Science
