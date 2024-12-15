@@ -77,7 +77,7 @@ Documenting code - I don’t usually write documents in codes, but when I do I w
           
         
   <p>
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>” - Yes, I use AI for this purpose because sometimes I don’t know what's wrong with my code and that I needed its output on what could be the problem and what are the solutions in fixing it. I only use it when I don’t have any way of solving my problem after trying every alternative there are.
+Quality assurance e.g. “What’s wrong with this code <code /here>” or “Fix the ESLint errors in <code /here>” - Yes, I use AI for this purpose because sometimes I don’t know what's wrong with my code and that I needed its output on what could be the problem and what are the solutions in fixing it. I only use it when I don’t have any way of solving my problem after trying every alternative there are.
   </p>
   
   
