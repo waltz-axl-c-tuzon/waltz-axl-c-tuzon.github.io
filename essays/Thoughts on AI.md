@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 <h1>I. Introduction</h1>
 <p>Artificial Intelligence, or AI for short, has had a huge role and impact since its release and its updates being that it takes in input and produces an output or outputs. Although it has its limits - words prompts, unable to access login protected docs/pdfs, bound to make mistakes, etc - give it a couple of updates in the coming months or years and it will become an absolute unit of an arsenal for a student. I’ve been using ChatGPT for quite some time now and it helped me with my Linear Algebra homeworks, Software Engineering homeworks and WODs, and many more courses with comprehensive explanations that help me better understand the topic and the problem itself.</p>
