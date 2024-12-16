@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uh-jewels-website.jpg
+image: img/uh-jewels-website.png
 title: "UH-Jewels"
 date: 2024
 published: true
